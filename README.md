@@ -1,4 +1,4 @@
-# Rewards App
+# Login App
 
 A full-stack rewards & settings web application built with **React + TypeScript** (frontend) and **NestJS** (backend).
 
