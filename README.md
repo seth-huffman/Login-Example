@@ -3,16 +3,11 @@
 A full-stack rewards & settings web application built with **React + TypeScript** (frontend) and **NestJS** (backend).
 
 ## Screenshots
-
-### Login Page
-
-![Login Page](docs/screenshots/login.png)
-
-> **To capture this screenshot:** open `http://localhost:5173` in your browser and take a screenshot, then save it as `docs/screenshots/login.png`.
+screenshots/login.png`.
 
 ### Settings — Profile
 
-![Settings](docs/screenshots/settings-light.png)
+![Settings](frontend/public/screenshots/settings-light.png)
 
 ---
 
